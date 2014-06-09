@@ -363,10 +363,4 @@ void Business_Entry( void *pvParameters )
 		
 	}
 	
-
-	
-
-
-
-	
 }
